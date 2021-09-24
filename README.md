@@ -3,7 +3,7 @@
 
 # debes tener 
 
-[*] java
++ java
 
 # Descargar FullNode.jar
 
